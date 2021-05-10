@@ -11,7 +11,7 @@
             <table border="1" width="30%" cellpadding="5">
                 <thead>
                     <tr>
-                        <th colspan="2">Enter Information Here CICD ShubhamRP</th>
+                        <th colspan="2">Enter Information Here CICD ShubhamP</th>
                     </tr>
                 </thead>
                 <tbody>
